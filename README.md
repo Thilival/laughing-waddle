@@ -1,2 +1,4 @@
 # laughing-waddle
-my new website
+main()
+printf()
+body()
